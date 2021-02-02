@@ -1,2 +1,2 @@
 # text-classification
-A notebook where I do some text classification work
+A notebook where I showcase some text classification work
